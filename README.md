@@ -1,2 +1,2 @@
-# Project-NoSQL-1
+# Project_NoSQL
 Asesmen tengah semester mata kuliah Basis Data NoSQL kelompok 1
